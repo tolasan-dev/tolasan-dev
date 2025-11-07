@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tol San</h1>
-<h3 align="center">👋 Hey! I’m Tola San – Final-year CS student at RULE Passionate Web Developer from Cambodia 🇰🇭 🛠 Built 10+ projects with: • React, Next.js, Tailwind • Node.js, Express, MongoDB • Deployed on Vercel & Render Looking for junior dev roles or internships! Let’s code the future of Khmer tech together 💪</h3>
+<h3 align="center">👋 Hey! I’m Tola San – Final-year CS student at Royal University of Phnom Phenh Passionate Web Developer from Cambodia 🇰🇭 🛠 Built 10+ projects with: • Vue js , Laravel, Asp.net core Tailwind , Deployed on Vercel & Render Looking for junior dev roles or internships! Let’s code the future of Khmer tech together 💪</h3>
 
 - 🔭 I’m currently working on **Blood Donation System**
 
