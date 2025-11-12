@@ -22,10 +22,11 @@
   </a>
 
   <a href="https://t.me/tolasannn369" target="_blank" rel="noreferrer" class="group">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" 
-         alt="Telegram" height="36" width="36" 
-         class="transition-all duration-300 group-hover:scale-125 group-hover:drop-shadow-md"/>
+   <img width="48" height="48" src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="telegram-app--v1"  alt="Telegram" height="36" width="36"  class="transition-all duration-300 group-hover:scale-125 group-hover:drop-shadow-md" /> 
+        
+        
   </a>
+  
 </div>
 
 <!-- Languages and Tools Section -->
