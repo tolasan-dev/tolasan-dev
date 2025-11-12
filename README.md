@@ -3,13 +3,30 @@
 
 - 🌱 I’m currently learning **Javascript, Vue js, Laravel,Asp.net core, dart flutter and OOP Design Pattern**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/Tola.SanST/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="san tola" height="30" width="40" /></a>
-</p>
-<a href="https://t.me/tolasannn369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="san tola" height="30" width="40" /></a>
-</p>
 
+
+<!-- >Connect with me follow soial media -->
+<!-- Connect with me -->
+<h3 align="left" class="text-xl font-semibold text-gray-800 dark:text-gray-200 mb-4 flex items-center gap-2">
+  <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
+  </svg>
+  Connect with Me
+</h3>
+
+<div class="flex flex-wrap gap-4 justify-start items-center">
+  <a href="https://www.facebook.com/Tola.SanST/" target="_blank" rel="noreferrer" class="group">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
+         alt="Facebook" height="36" width="36" 
+         class="transition-all duration-300 group-hover:scale-125 group-hover:drop-shadow-md"/>
+  </a>
+
+  <a href="https://t.me/tolasannn369" target="_blank" rel="noreferrer" class="group">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" 
+         alt="Telegram" height="36" width="36" 
+         class="transition-all duration-300 group-hover:scale-125 group-hover:drop-shadow-md"/>
+  </a>
+</div>
 
 <!-- Languages and Tools Section -->
 <h3 align="left" class="text-xl font-semibold text-gray-800 dark:text-gray-200 mb-4">
