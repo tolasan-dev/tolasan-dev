@@ -7,6 +7,9 @@
 <p align="left">
 <a href="https://www.facebook.com/Tola.SanST/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="san tola" height="30" width="40" /></a>
 </p>
+<a href="https://t.me/tolasannn369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="san tola" height="30" width="40" /></a>
+</p>
+
 
 <!-- Languages and Tools Section -->
 <h3 align="left" class="text-xl font-semibold text-gray-800 dark:text-gray-200 mb-4">
