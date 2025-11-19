@@ -1,4 +1,4 @@
-<h1 align="center">Hi There </h1
+<h1>Hi There </h1
 <h3 align="center">👋 Hey! I’m Tola San – Final-year CS student at Royal University of Phnom Phenh and ANT Technology Training Center Passionate Web Developer 💪</h3>
 
 - 🌱 I’m currently learning **Javascript, Vue js, Laravel,Asp.net core, dart flutter and OOP Design Pattern**
