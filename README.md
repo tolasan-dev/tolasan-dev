@@ -100,7 +100,7 @@
 
 
 <!-- GitHub Stats Section -->
-<div class="flex flex-col md:flex-row gap-8 justify-center items-center mb-10 mt-12 px-4">
+<div class="flex flex-col md:flex-row gap-8 justify-center items-center mb-10 mt-12 px-4 space-y-4">
   <!-- Top Languages -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=tolasan-dev&layout=compact&hide_border=true&bg_color=0d1117,0f1526,1a1f3a,242d52&border_radius=16&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
