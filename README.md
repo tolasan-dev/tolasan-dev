@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/tolasan-dev/tolasan-dev/main/assets/banner.png" alt="Banner" style="border-radius:16px; width:100%; max-height:320px; object-fit:cover;"/>
+
 
 <br/>
 
@@ -57,8 +57,3 @@
 
 <br/>
 
-## Currently Working On
-```text
-Personal Portfolio v3       (Vue 3 + Nuxt 3 + Tailwind)
-E-Commerce Dashboard       (Laravel + Vue + Inertia)
-Mobile Banking App          (Flutter + Firebase)
