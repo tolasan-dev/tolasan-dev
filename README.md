@@ -100,7 +100,7 @@
 
 
 <!-- Top Languages & GitHub Stats -->
-<div class="flex flex-col md:flex-row gap-6 justify-center items-center md:justify-start">
+<div class="flex flex-col md:flex-row gap-6 justify-center items-center md:justify-start space-y-4">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tolasan-dev&layout=compact&theme=default&hide_border=true&bg_color=0d1117,121218,1a1e2c,21253f&border_radius=12" alt="Top Languages" class="rounded-xl shadow-2xl"/>
   <img src="https://github-readme-stats.vercel.app/api?username=tolasan-dev&show_icons=true&theme=default&hide_border=true&bg_color=0d1117,121218,1a1e2c,21253f&border_radius=12" alt="GitHub Stats" class="rounded-xl shadow-2xl"/>
 </div>
