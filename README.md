@@ -98,17 +98,14 @@
   </a>
 </div>
 
-<!-- GitHub Stats Section -->
-<div class="flex flex-col md:flex-row gap-4 justify-center items-center md:justify-start">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tolasan-dev&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0d1117" 
-       alt="Top Languages" class="rounded-lg shadow-md"/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=tolasan-dev&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0d1117" 
-       alt="GitHub Stats" class="rounded-lg shadow-md"/>
+<!-- Top Languages & GitHub Stats -->
+<div class="flex flex-col md:flex-row gap-6 justify-center items-center md:justify-start">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tolasan-dev&layout=compact&theme=default&hide_border=true&bg_color=0d1117,121218,1a1e2c,21253f&border_radius=12" alt="Top Languages" class="rounded-xl shadow-2xl"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tolasan-dev&show_icons=true&theme=default&hide_border=true&bg_color=0d1117,121218,1a1e2c,21253f&border_radius=12" alt="GitHub Stats" class="rounded-xl shadow-2xl"/>
 </div>
 
 <!-- Streak Stats -->
-<div class="flex justify-center mt-6">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tolasan-dev&theme=react&hide_border=true&background=0d1117" 
-       alt="GitHub Streak" class="rounded-lg shadow-md"/>
+<div class="flex justify-center mt-8">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tolasan-dev&theme=default&hide_border=true&background=0d1117,121218,1a1e2c,21253f&border_radius=12" alt="GitHub Streak" class="rounded-xl shadow-2xl"/>
 </div>
