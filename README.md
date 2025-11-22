@@ -28,7 +28,7 @@
 <br/>
 
 ## About Me
-- Final year CS student graduating in 2025  
+- Final year CS student graduating in 2026 
 - Building real-world apps with **Vue.js, Laravel, Flutter & .NET Core**  
 - Currently learning **Clean Architecture, Design Patterns & System Design**  
 - Love turning ideas into beautiful, performant products  
