@@ -99,13 +99,28 @@
 </div>
 
 
-<!-- Top Languages & GitHub Stats -->
-<div class="flex flex-col md:flex-row gap-6 justify-center items-center md:justify-start my-6">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tolasan-dev&layout=compact&theme=default&hide_border=true&bg_color=0d1117,121218,1a1e2c,21253f&border_radius=12" alt="Top Languages" class="rounded-xl shadow-2xl"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=tolasan-dev&show_icons=true&theme=default&hide_border=true&bg_color=0d1117,121218,1a1e2c,21253f&border_radius=12" alt="GitHub Stats" class="rounded-xl shadow-2xl"/>
+<!-- GitHub Stats Section -->
+<div class="flex flex-col md:flex-row gap-8 justify-center items-center mb-10 mt-12 px-4">
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=tolasan-dev&layout=compact&hide_border=true&bg_color=0d1117,0f1526,1a1f3a,242d52&border_radius=16&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+    alt="Top Languages" 
+    class="rounded-2xl shadow-2xl hover:shadow-purple-500/40 transition-shadow w-full md:w-auto max-w-sm" 
+  />
+  
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=tolasan-dev&show_icons=true&hide_border=true&bg_color=0d1117,0f1526,1a1f3a,242d52&border_radius=16&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+    alt="GitHub Stats" 
+    class="rounded-2xl shadow-2xl hover:shadow-purple-500/40 transition-shadow w-full md:w-auto max-w-md" 
+  />
 </div>
 
 <!-- Streak Stats -->
-<div class="flex justify-center mt-8 mb-3">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tolasan-dev&theme=default&hide_border=true&background=0d1117,121218,1a1e2c,21253f&border_radius=12" alt="GitHub Streak" class="rounded-xl shadow-2xl"/>
+<div class="flex justify-center my-12 px-4">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=tolasan-dev&hide_border=true&background=0d1117,0f1526,1a1f3a,242d52&border_radius=16&stroke=58a6ff&ring=58a6ff&fire=ff8c00&currStreakLabel=58a6ff"
+    alt="GitHub Streak" 
+    class="rounded-2xl shadow-2xl hover:shadow-orange-500/40 transition-shadow w-full max-w-2xl" 
+  />
 </div>
