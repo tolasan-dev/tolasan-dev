@@ -1,59 +1,51 @@
-
-
-<br/>
-
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
-  Hey There! I'm Tola San
-</h1>
-
-<p align="center">
-  <strong>Final-Year Computer Science Student</strong><br/>
-  Royal University of Phnom Penh • ANT Technology Training Center<br/>
-  <em>Passionate Full-Stack & Mobile Developer from Cambodia</em>
-</p>
+<h1 align="center">✨ Hey, I'm <strong>Tola San</strong></h1>
+<p align="center">Final-Year Computer Science Student • Full-Stack & Mobile Developer</p>
 
 <p align="center">
   <a href="https://www.facebook.com/Tola.SanST/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://t.me/tolasannn369">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:tolasan.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<br/>
+---
 
-## About Me
-- Final year CS student graduating in 2026 
-- Building real-world apps with **Vue.js, Laravel, Flutter & .NET Core**  
-- Currently learning **Clean Architecture, Design Patterns & System Design**  
-- Love turning ideas into beautiful, performant products  
+## 🚀 About Me
+- 🎓 Final-year CS student graduating **2026**  
+- 💻 Building scalable apps using **Vue.js, Laravel, Flutter & .NET Core**  
+- 📚 Learning **Clean Architecture, Design Patterns & System Design**  
+- 🎨 Turning ideas into modern, beautiful, and high-performance products  
 
-<br/>
+---
 
-## Tech Stack & Tools
+## 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,tailwind,bootstrap,laravel,php,mysql,dotnet,csharp,flutter,dart,docker,git,github,aws,postman,vscode&perline=10" />
 
-<img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,tailwind,bootstrap,laravel,php,mysql,dotnet,csharp,flutter,dart,docker,git,github,aws,postman,vscode&perline=9" />
+---
 
-<br/>
-
-## GitHub Stats
-
+## 📊 GitHub Insights
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tolasan-dev&layout=compact&hide_border=true&bg_color=0d1117,0f1526,1a1f3a,242d52&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=16" alt="Top Languages" height="180"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=tolasan-dev&show_icons=true&hide_border=true&bg_color=0d1117,0f1526,1a1f3a,242d52&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=16" alt="GitHub Stats" height="180"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=tolasan-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tolasan-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tolasan-dev&hide_border=true&background=0d1117,0f1526,1a1f3a,242d52&stroke=58a6ff&ring=58a6ff&fire=ff8c00&currStreakLabel=58a6ff&border_radius=16&theme=dark" height="200" alt="GitHub Streak"/>
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=tolasan-dev&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff8c00&currStreakLabel=58a6ff&border_radius=12" />
 </div>
 
-<br/>
+---
 
+## 🌱 Currently Working On
+- Real-world full-stack applications  
+- Enhancing backend and architecture skills  
+- Expanding cloud & DevOps workflows  
+
+---
+
+## 🤝 Connect with Me
+If you're interested in collaborating or have an opportunity, feel free to reach out!
