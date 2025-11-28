@@ -1,51 +1,71 @@
-<h1 align="center">✨ Hey, I'm <strong>Tola San</strong></h1>
-<p align="center">Final-Year Computer Science Student • Full-Stack & Mobile Developer</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Tola+San;Full-Stack+%26+Mobile+Developer;Building+the+future%2C+one+line+at+a+time" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <a href="https://www.facebook.com/Tola.SanST/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <strong>Final-Year Computer Science Student • Class of 2026</strong><br>
+  Turning ideas into scalable, beautiful, and high-performance apps
+</p>
+
+<p align="center">
+  <a href="https://facebook.com/Tola.SanST">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://t.me/tolasannn369">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="mailto:tolasan.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tolasan-dev&label=Profile+Views&color=58a6ff&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/tolasan-dev?label=Follow&style=flat-square&color=58a6ff" alt="GitHub followers"/>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 Final-year CS student graduating **2026**  
-- 💻 Building scalable apps using **Vue.js, Laravel, Flutter & .NET Core**  
-- 📚 Learning **Clean Architecture, Design Patterns & System Design**  
-- 🎨 Turning ideas into modern, beautiful, and high-performance products  
+- 🎓 Final-year CS student at **Royal University of Phnom Penh** & **ANT Technology**
+- 💻 Passionate about **Full-Stack Web** & **Cross-Platform Mobile** development
+- ⚡ Currently mastering **Clean Architecture**, **System Design**, and **Cloud-Native** apps
+- 🌟 Building real-world products with **Vue.js • Laravel • Flutter • .NET Core**
 
 ---
 
 ## 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,tailwind,bootstrap,laravel,php,mysql,dotnet,csharp,flutter,dart,docker,git,github,aws,postman,vscode&perline=10" />
+
+<img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,tailwind,bootstrap,laravel,php,mysql,dart,flutter,dotnet,csharp,docker,git,github,aws,postman,vscode&perline=12&theme=dark" />
 
 ---
 
-## 📊 GitHub Insights
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=tolasan-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tolasan-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12" />
-</div>
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=tolasan-dev&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff8c00&currStreakLabel=58a6ff&border_radius=12" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tolasan-dev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolasan-dev&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tolasan-dev&theme=tokyonight&hide_border=true&border_radius=12&fire=ff8c00&ring=58a6ff&currStreakLabel=58a6ff" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tolasan-dev&theme=tokyo-night&hide_border=true&border_radius=12&point=58a6ff" />
 </div>
 
 ---
 
 ## 🌱 Currently Working On
-- Real-world full-stack applications  
-- Enhancing backend and architecture skills  
-- Expanding cloud & DevOps workflows  
+- High-performance full-stack applications
+- Advanced backend architecture & microservices
+- Cloud & DevOps workflows (Docker • AWS)
 
 ---
 
-## 🤝 Connect with Me
-If you're interested in collaborating or have an opportunity, feel free to reach out!
+## 🤝 Let's Connect!
+Always open to collaborations, freelance gigs, or just a good tech chat!  
+Feel free to reach out — I usually reply fast 💬
+
+<img align="center" src="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/assets/lets-connect.gif?raw=true" width="400" />
