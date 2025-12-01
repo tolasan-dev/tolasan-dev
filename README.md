@@ -57,15 +57,6 @@
 
 ---
 
-## 🌱 Currently Working On
-- High-performance full-stack applications
-- Advanced backend architecture & microservices
-- Cloud & DevOps workflows (Docker • AWS)
 
----
-
-## 🤝 Let's Connect!
-Always open to collaborations, freelance gigs, or just a good tech chat!  
-Feel free to reach out — I usually reply fast 💬
 
 <img align="center" src="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/assets/lets-connect.gif?raw=true" width="400" />
