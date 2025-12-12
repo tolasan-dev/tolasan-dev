@@ -36,7 +36,7 @@
 
 ## 🛠️ Tech Stack
 
-<img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,tailwind,bootstrap,laravel,php,mysql,dart,flutter,dotnet,csharp,docker,git,github,aws,postman,vscode&perline=12&theme=dark" />
+<img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,tailwind,bootstrap,laravel,php,mysql,dart,flutter,dotnet,csharp,docker,git,github,postman,vscode&perline=12&theme=dark" />
 
 ---
 
