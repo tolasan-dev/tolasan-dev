@@ -3,8 +3,7 @@
   Hey 👋, I'm Tola San  
   <br />
   Full-Stack Developer 
-  <br />
-  Building the future, one commit at a time
+ 
 </h1>
 
 
