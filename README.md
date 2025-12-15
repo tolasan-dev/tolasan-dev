@@ -31,7 +31,7 @@
 
 <!-- Tech Stack – Modern Icons with Glass Effect -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vuejs,nuxtjs,tailwind,laravel,php,mysql,flutter,dart,cs,dotnet,docker,aws,git,github,postman,vscode&perline=12&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vuejs,nuxtjs,tailwind,laravel,php,mysql,flutter,dart,cs,dotnet,docker,git,github,postman,vscode&perline=12&theme=dark" />
 </div>
 
 <br>
