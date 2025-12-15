@@ -1,7 +1,12 @@
 <!-- Dynamic Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=Hey+%F0%9F%91%8B%2C+I'm+Tola+San;Full-Stack+%26+Mobile+Engineer;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
+  Hey 👋, I'm Tola San  
+  <br />
+  Full-Stack Developer 
+  <br />
+  Building the future, one commit at a time
 </h1>
+
 
 <p align="center">
   <code>Final-Year Computer Science • Class of 2026</code>
