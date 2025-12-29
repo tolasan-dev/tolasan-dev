@@ -1,69 +1,111 @@
-<!-- Header -->
+<!-- ========================================= -->
+<!--            Tola San - PROFILE README      -->
+<!--        Last major update: Dec 2025        -->
+<!-- ========================================= -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Alex+Thompson;Full-Stack+Developer+%26+Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+There!+👋;I'm+Tola+San;Full-Stack+Developer+%F0%9F%9A%80" alt="Typing Animation" />
 </h1>
 
-<!-- Badges row -->
-<p align="center">
-  <a href="https://github.com/readme-typing-svg"><img src="https://img.shields.io/badge/Portfolio-255?style=for-the-badge&logo=react&logoColor=white&color=0f766e"/></a>
-  <a href="https://linkedin.com/in/alexthompson-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/alexthompson_dev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=alexthompson&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/alexthompson?style=for-the-badge&color=brightgreen" alt="followers"/>
-</p>
+<h3 align="center">Final-Year Computer Science Student • Class of 2026</h3>
 
-<!-- 3D Snake or Skyline -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexthompson/alexthompson/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexthompson/alexthompson/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/alexthompson/alexthompson/output/github-snake.svg" width="80%"/>
-  </picture>
-</p>
-
-<!-- Quick bio -->
-<p align="center">
-  <i>Building scalable web & mobile applications • Currently obsessed with Rust + Tauri + Next.js 15 • Open for interesting collaborations</i><br>
-  <b>📍 Berlin • 🌐 UTC+1 • 🔭 Last commit 3 hours ago</b>
+  <i>Turning caffeine into clean, scalable & user-loved code ☕✨</i><br>
+  Currently building modern web/mobile apps • Open to collaborations & internships
 </p>
 
 <div align="center">
-
-<!-- Modern compact stats (2024-2025 style) -->
-<img src="https://github-readme-stats.vercel.app/api?username=alexthompson&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=28" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alexthompson&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" width="48%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=Tola%20San&fontAlignY=40&fontSize=50&animation=twinkling&fontColor=ffffff" />
 </div>
 
-<br/>
-
-### 🚀 Technologies I work with most
-
+<!-- Quick Connect + Stats -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,ts,go,nextjs,react,tailwind,nodejs,postgres,redis,docker,kubernetes,aws&perline=8" alt="tech stack"/>
+  <a href="https://facebook.com/Tola.SanST"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" height="28"/></a>
+  <a href="https://t.me/tolasannn369"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" height="28"/></a>
+  <a href="mailto:tolasan.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28"/></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=tolasan-dev&label=Profile+Views&color=58a6ff&style=flat-square" height="28"/>
+  <img src="https://img.shields.io/github/followers/tolasan-dev?style=flat-square&color=58a6ff" height="28"/>
 </p>
 
-### 🔥 Some projects I'm proud of
+<!-- ========================================= -->
+<!--               TECH STACK                  -->
+<!-- ========================================= -->
+## 🛠️ Tech Stack I Breathe & Code With
 
 <p align="center">
-<table>
-<tr>
-<td><a href="https://github.com/alexthompson/quantum-todo"><img src="https://img.shields.io/badge/Quantum_Todo-FF6B6B?style=for-the-badge&logo=react&logoColor=white"/></a></td>
-<td><a href="https://github.com/alexthompson/rustdesk-clone"><img src="https://img.shields.io/badge/RustDesk_Clone-4ECDC4?style=for-the-badge&logo=rust&logoColor=white"/></a></td>
-<td><a href="https://github.com/alexthompson/next-saas-boilerplate"><img src="https://img.shields.io/badge/Next.js_SaaS_Boilerplate-45B7D1?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a></td>
-</tr>
-</table>
+  <img src="https://skillicons.dev/icons?i=vuejs,nuxtjs,tailwind,laravel,php,mysql,flutter,dart,cs,dotnet,docker,git,github,postman,vscode&theme=dark&perline=8" alt="Tech Stack" />
 </p>
 
-<!-- Connect -->
-<h3 align="center">🌐 Let's connect!</h3>
+<!-- ========================================= -->
+<!--               GITHUB STATS                -->
+<!-- ========================================= -->
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tolasan-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&line_height=28" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolasan-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img height="140em" src="https://streak-stats.demolab.com?user=tolasan-dev&theme=tokyonight&hide_border=true&date_format=M+j%5B%2C+Y%5D" />
+</div>
+
+<!-- ========================================= -->
+<!--         NEW: 3D CONTRIBUTION GRAPH        -->
+<!-- ========================================= -->
+## 🌌 3D Contribution Galaxy
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-3d-contrib.vercel.app/profile/tolasan-dev?theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-3d-contrib.vercel.app/profile/tolasan-dev?theme=light" />
+    <img src="https://github-profile-3d-contrib.vercel.app/profile/tolasan-dev?theme=dark" width="80%" />
+  </picture>
+  <br><small>Powered by github-profile-3d-contrib • Updates daily</small>
+</div>
+
+<!-- Snake still cool as secondary -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tolasan-dev/tolasan-dev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tolasan-dev/tolasan-dev/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tolasan-dev/tolasan-dev/output/github-contribution-grid-snake.svg" width="70%"/>
+  </picture>
+</p>
+
+<!-- ========================================= -->
+<!--             PINNED PROJECTS (new)         -->
+<!-- ========================================= -->
+## 🔥 Some Projects I'm Proud Of
 
 <p align="center">
-  <a href="https://linkedin.com/in/alexthompson-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a> 
-  <a href="https://x.com/alexthompson_dev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="28"/></a> 
-  <a href="mailto:alex@thompson.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>
+  <!-- You can replace with your real pinned repos -->
+  <a href="https://github.com/tolasan-dev/your-best-project-1"><img src="https://img.shields.io/badge/Modern%20Vue+Nuxt%20App-58a6ff?style=for-the-badge&logo=vue.js&logoColor=white" height="32"/></a>
+  &nbsp;
+  <a href="https://github.com/tolasan-dev/laravel-api"><img src="https://img.shields.io/badge/Laravel+REST+API-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="32"/></a>
+  &nbsp;
+  <a href="https://github.com/tolasan-dev/flutter-app"><img src="https://img.shields.io/badge/Flutter+Mobile-App-54C5F8?style=for-the-badge&logo=flutter&logoColor=white" height="32"/></a>
+</p>
+
+<!-- ========================================= -->
+<!--               LET'S CONNECT               -->
+<!-- ========================================= -->
+## 🤝 Let’s Build Something Cool Together
+
+<p align="center">
+  Open to <b>collaborations • freelance • internships • interesting ideas</b><br>
+  I usually reply within hours 🚀
 </p>
 
 <p align="center">
-  <i>Last updated: December 29, 2025  •  Made with ❤️ & lots of ☕</i>
+  <a href="https://t.me/tolasannn369">
+    <img src="https://img.shields.io/badge/Say%20Hi%20on%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="36"/>
+  </a>
 </p>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Made%20with%20❤️%20&%20☕&fontAlignY=45&fontSize=20&animation=fadeIn" />
+  <br><small>Profile last refreshed • December 2025</small>
+</div>
