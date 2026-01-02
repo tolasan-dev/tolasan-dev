@@ -1,6 +1,6 @@
 <!-- ================================================= -->
 <!--           Tola San - Professional README          -->
-<!--              Last updated: December 2025          -->
+<!--              Last updated: Dec 2025               -->
 <!-- ================================================= -->
 
 <h1 align="center">
@@ -37,11 +37,11 @@
 
 <br>
 
-<!-- Tech stack - clean & compact with TypeScript added -->
+<!-- Tech stack - clean & compact -->
 ## 🛠️ Technologies I Work With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,javascript,,reactjs vuejs,nuxtjs,tailwind,laravel,php,mysql,flutter,dart,cs,dotnet,docker,git,github,postman,vscode&perline=9" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=vuejs,nuxtjs,tailwind,laravel,php,mysql,flutter,dart,cs,dotnet,docker,git,github,postman,vscode&perline=9" alt="tech stack" />
 </p>
 
 <br>
