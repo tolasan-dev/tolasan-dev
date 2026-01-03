@@ -77,16 +77,6 @@
 <!-- ========================================= -->
 <!--             PINNED PROJECTS (new)         -->
 <!-- ========================================= -->
-## 🔥 Some Projects I'm Proud Of
-
-<p align="center">
-  <!-- You can replace with your real pinned repos -->
-  <a href="https://github.com/tolasan-dev/your-best-project-1"><img src="https://img.shields.io/badge/Modern%20Vue+Nuxt%20App-58a6ff?style=for-the-badge&logo=vue.js&logoColor=white" height="32"/></a>
-  &nbsp;
-  <a href="https://github.com/tolasan-dev/laravel-api"><img src="https://img.shields.io/badge/Laravel+REST+API-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="32"/></a>
-  &nbsp;
-  <a href="https://github.com/tolasan-dev/flutter-app"><img src="https://img.shields.io/badge/Flutter+Mobile-App-54C5F8?style=for-the-badge&logo=flutter&logoColor=white" height="32"/></a>
-</p>
 
 <!-- ========================================= -->
 <!--               LET'S CONNECT               -->
