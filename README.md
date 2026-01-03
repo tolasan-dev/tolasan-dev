@@ -34,7 +34,7 @@
 ## 🛠️ Tech Stack I Breathe & Code With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vuejs,typescript,javascript,prisma,nextjs,tailwind,bootstrap,mysql,flutter,dart,cs,dotnet,docker,git,github,postman,vscode&theme=dark&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=vuejs,typescript,javascript,prisma,nextjs,tailwind,bootstrap,mysql,flutter,dart,cs,dotnet,docker,git,github,postman,&theme=dark&perline=8" alt="Tech Stack" />
 </p>
 
 <!-- ========================================= -->
