@@ -51,19 +51,6 @@
   <img height="140em" src="https://streak-stats.demolab.com?user=tolasan-dev&theme=tokyonight&hide_border=true&date_format=M+j%5B%2C+Y%5D" />
 </div>
 
-<!-- ========================================= -->
-<!--         NEW: 3D CONTRIBUTION GRAPH        -->
-<!-- ========================================= -->
-## 🌌 3D Contribution Galaxy
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-3d-contrib.vercel.app/profile/tolasan-dev?theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-3d-contrib.vercel.app/profile/tolasan-dev?theme=light" />
-    <img src="https://github-profile-3d-contrib.vercel.app/profile/tolasan-dev?theme=dark" width="80%" />
-  </picture>
-  <br><small>Powered by github-profile-3d-contrib • Updates daily</small>
-</div>
 
 <!-- Snake still cool as secondary -->
 <p align="center">
@@ -81,18 +68,6 @@
 <!-- ========================================= -->
 <!--               LET'S CONNECT               -->
 <!-- ========================================= -->
-## 🤝 Let’s Build Something Cool Together
-
-<p align="center">
-  Open to <b>collaborations • freelance • internships • interesting ideas</b><br>
-  I usually reply within hours 🚀
-</p>
-
-<p align="center">
-  <a href="https://t.me/tolasannn369">
-    <img src="https://img.shields.io/badge/Say%20Hi%20on%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="36"/>
-  </a>
-</p>
 
 <!-- Footer -->
 <div align="center">
