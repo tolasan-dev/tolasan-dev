@@ -4,7 +4,7 @@
 <!-- ========================================= -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+There!+👋;I'm+Tola+San;Full-Stack+Developer+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+There!+👋;I'm+Tola+San;Full-Stack+Developer+%F0%9F%9A%80" />
 </h1>
 
 <h3 align="center">Final-Year Computer Science Student • Class of 2026</h3>
